@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coroutines Contacts Fetching</string>
+    <string name="contact_permission_rationale">Need contacts read permission for fetching and displaying contacts</string>
+</resources>

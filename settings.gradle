@@ -1,0 +1,2 @@
+rootProject.name='Coroutines Contacts Fetching'
+include ':app'
